@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/turismo/static/css/main.7a89f08a.chunk.css",
+    "main.js": "/turismo/static/js/main.8719ac5b.chunk.js",
+    "main.js.map": "/turismo/static/js/main.8719ac5b.chunk.js.map",
+    "runtime-main.js": "/turismo/static/js/runtime-main.4f1fd6f2.js",
+    "runtime-main.js.map": "/turismo/static/js/runtime-main.4f1fd6f2.js.map",
+    "static/js/2.b2063cdd.chunk.js": "/turismo/static/js/2.b2063cdd.chunk.js",
+    "static/js/2.b2063cdd.chunk.js.map": "/turismo/static/js/2.b2063cdd.chunk.js.map",
+    "index.html": "/turismo/index.html",
+    "static/css/main.7a89f08a.chunk.css.map": "/turismo/static/css/main.7a89f08a.chunk.css.map",
+    "static/js/2.b2063cdd.chunk.js.LICENSE.txt": "/turismo/static/js/2.b2063cdd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f1fd6f2.js",
+    "static/js/2.b2063cdd.chunk.js",
+    "static/css/main.7a89f08a.chunk.css",
+    "static/js/main.8719ac5b.chunk.js"
+  ]
+}
